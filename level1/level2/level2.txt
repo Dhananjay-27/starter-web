@@ -1,7 +1,0 @@
-Level2 file 
-In order to understand recursion, one must first understand recursion. 
-(Anonymous) Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
- (Martin Golding) To err is human, but to really foul things up you need a computer. 
- (Paul Ehrlich) Without requirements or design, programming is the art of adding bugs to an empty text file. 
-(Louis Srygley) Windows NT addresses 2 Gigabytes of RAM, which is more than any application will ever need.
- (Microsoft, on the development of Windows NT, 1992)
