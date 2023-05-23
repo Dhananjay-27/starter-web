@@ -7,9 +7,10 @@
 
 # THANKS
 
-    ALL My STUDENTS!
+    ALL MY STUDENTS!
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+    Git
