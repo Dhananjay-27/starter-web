@@ -1,6 +1,8 @@
 # Starter Web project
 
- This is a sample website project for showing how to use git and github together
+ This is a sample website project for showing how to use git and github together.
+ As started above,the main purpose is to provide simple examples for git training demos
+ 
  
 
 ## Introduction
@@ -14,3 +16,4 @@
 
 ## Deployment
 
+This is a simple web project,deployment can be on any web server on even local file system.
