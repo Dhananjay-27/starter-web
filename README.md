@@ -13,6 +13,8 @@
 ## Purpose
 
 ## How to contribute
+ Please fork this reppositoryt and then issue pull requests for review
+ 
 
 ## Deployment
 
