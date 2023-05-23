@@ -1,5 +1,1 @@
- Format for the File is
- Git Ignore Pattern Examples
-  Specific File: MyFile.ext
-  File Pattern : .DS_Store
-  Folder       : log/
+.DS_Store
