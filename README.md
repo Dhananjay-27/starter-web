@@ -7,8 +7,10 @@ This is a simple website project for showing how to use Git and GitHub together
 This example is to show different parts of the git repository and various commands using a web project.
 ## Purpose
 
-Sample website with plenty of files for demos
+As stated above , the main purpose is to provide simple example for git training demos.
 
 ## Deployment
+
+This is a simple web project,deployment can be on any web server or even on local file system.
 
 ## How To Contribute
