@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> Rajeswari -- <role> developer -- <twitter> rajeswari@twitter
 
 # THANKS
 
