@@ -1,7 +1,7 @@
 # Starter Web project
 
  This is a sample website project for showing how to use git and github together.
- As started above,the main purpose is to provide simple examples for git training demos
+ Adding a line for rebasing example.
  
  
 
